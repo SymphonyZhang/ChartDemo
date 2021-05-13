@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/training/training",
+          "pathName": "pages/training/training",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/traind/traind",
+          "pathName": "pages/traind/traind",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/traint/traint",
+          "pathName": "pages/traint/traint",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
